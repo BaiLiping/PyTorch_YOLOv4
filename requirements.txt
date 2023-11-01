@@ -7,3 +7,4 @@ pycocotools
 tqdm
 pillow
 tensorboard >= 1.14
+werkzeug>=3.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
